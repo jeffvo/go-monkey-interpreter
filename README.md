@@ -1,4 +1,4 @@
-# Monkey-Go Interpreter
+# go-monkey-interperter
 
 This project is an implementation of the "Monkey" language interpreter, inspired by the book [Writing an Interpreter in Go](https://interpreterbook.com).
 
