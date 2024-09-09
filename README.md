@@ -13,20 +13,6 @@ This project is an implementation of the "Monkey" language interpreter, inspired
 
 - Go (version 1.16 or higher)
 
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/yourusername/monkey-go.git
-   cd monkey-go
-   ```
-
-2. Build the project:
-   ```sh
-   go build -o monkey main.go
-   ```
-
 ### Usage
 
 To start the REPL, run:
